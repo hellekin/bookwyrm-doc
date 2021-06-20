@@ -10,3 +10,4 @@ Order: 1
 | [bookclub.techstartups.space](https://bookclub.techstartups.space/) | advait.raykar@gmail.com / [@advait@techstartups.space](https://techstartups.space/@advait) | ✅ | Non-fiction |
 | [cutebook.club](https://cutebook.club/) | allie@cat-girl.gay / [@allie@tech.lgbt](https://tech.lgbt/@allie) | ✅ | General |
 | [在我书目/Dans Mon Catalogue](https://book.dansmonorage.blue/)/ | [@faketaoist@mstd.dansmonorage.blue](https://mstd.dansmonorage.blue/@faketaoist) | ✅ | General |
+| [THX Boookz](https://boookz.zoethical.org/) | boookz@zoethical.org / [@ps@s10y.eu](https://ps.s10y.eu/@ps) | ❌| Trans · Hack · eXploration |
