@@ -31,6 +31,8 @@ docker-compose up
 
 Once the build is complete, you can access the instance at `http://localhost:1333`
 
+You may notice that CSS is not applied: see next section to use `collectstatic`.
+
 ### Editing static files
 If you edit the CSS or JavaScript, you will need to run Django's `collectstatic` command in order for your changes to have effect. You can do this by running:
 ```
